@@ -1,0 +1,24 @@
+div[class^="col"] {
+    border: 3px solid black;
+    min-height: 275px;
+}
+.blue {
+    background-color: #8fbaef;
+}
+.yellow {
+    background-color: #ffed7f;
+}
+.gray {
+    background-color: #e4e4e4;
+}
+.red {
+    background-color: #e49e98;
+}
+.green {
+    background-color: #addcae;
+}
+/* END OF FIRST GRID */
+
+#box2 {
+    height: 15%;
+}
